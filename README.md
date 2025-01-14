@@ -1,5 +1,5 @@
 # MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training
-### [Project Page](https://zju3dv.github.io/MatchAnything) | [Paper](??)
+### [Project Page](https://zju3dv.github.io/MatchAnything) | [Paper](https://arxiv.org/abs/2501.07556)
 
 > MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training\
 > [Xingyi He](https://hxy-123.github.io/),
