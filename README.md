@@ -19,7 +19,7 @@
 
 ### [<img src="https://s2.loli.net/2024/09/15/aw3rElfQAsOkNCn.png" width="20"> HuggingFace demo for MatchAnything](https://huggingface.co/spaces/LittleFrog/MatchAnything)
 
-## Models are on HuggingFace! All code will be available later.
+## Models are on HuggingFace! The training code will be available later.
 
 
 ## Citation
