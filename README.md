@@ -19,8 +19,6 @@
 
 ### [<img src="https://s2.loli.net/2024/09/15/aw3rElfQAsOkNCn.png" width="20"> HuggingFace demo for MatchAnything](https://huggingface.co/spaces/LittleFrog/MatchAnything)
 
-## [Models](https://huggingface.co/spaces/LittleFrog/MatchAnything/blob/main/imcui/third_party/MatchAnything/README.md) are on HuggingFace! (Pre-trained weights are included) The training code will be available later.
-
 
 ## Citation
 
