@@ -9,7 +9,7 @@
 [Zehong Shen](https://zehongs.github.io),
 [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/)<sup>†</sup>,
 [Xiaowei Zhou](https://xzhou.me/)<sup>†</sup> \
-> Arxiv 2025
+> TPAMI 2026
 
 <p align="center">
     <img src=video/teaser_demo.gif alt="animated" />
